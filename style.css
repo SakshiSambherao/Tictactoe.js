@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    padding-top:4%;
+    padding-top:1.5%;
     height: 65vh;
     display: flex;
     justify-content: center;
@@ -38,7 +38,7 @@ body {
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
-    color: #df57bc;
+    color: #003049;
     background-color:white;
 }
 #reset-btn{
