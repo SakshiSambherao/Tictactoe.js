@@ -10,15 +10,15 @@ body {
     color: #73d2de;
     font-size: 6vmin;
 
-
 }
 
 .container {
     padding-top:1.5%;
-    height: 65vh;
+    height: 60vmin;
     display: flex;
     justify-content: center;
     gap: 1.5vmin;
+    margin-bottom: 7vh;
 }
 
 .game {
@@ -42,7 +42,7 @@ body {
     background-color:white;
 }
 #reset-btn{
-    padding: 1rem;
+    padding: 0.8rem;
     font: 1.25rem;
     font-weight: bolder;
     background-color: #acfcd9;
